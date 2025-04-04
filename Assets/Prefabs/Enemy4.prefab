@@ -185,7 +185,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  health: 5
+  health: 7
   bloodSplatterPrefab: {fileID: 8586846363676380457, guid: ca41982ad554364418eb7c651424dbde, type: 3}
   damage: 5
   bossLevel: 3
